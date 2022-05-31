@@ -129,7 +129,7 @@ after showing the migration of which user who created the note, apply the defaul
 
 1
 
-then
+then apply the migrations:
 
 python manage.py migrate
 
@@ -146,45 +146,3 @@ user
 user.notes.count()
 
 ------------------------------------------------------------------------------
-
-apply the migrations:
-
-python manage.py migrate
-
-------------------------------------------------------------------------------
-
-
-python manage.py shell
-
-from notes.models import Notes
-
-mynote = Notes.objects.get(pk='1')
-
-mynote.title
-
-to access all database
-
-mynote = Notes.objects.all()
-
-mynote[0].title
-
-------------------------------------------------------------------------------
-create new
-
-new_note = Notes.objects.create(title='second',text='text2')
-
-new_note = Notes.objects.create(title='second2',text='text22')
-
-filter
-
-l= Notes.objects.filter(text__startswith='text')
-
-l= Notes.objects.filter(text__contains='what')
-
-not having the word:
-
-l= Notes.objects.exclude(text__contains='what')
-
-not have 'what' but have 'text'
-
-l= Notes.objects.exclude(text__contains='what').filter(text__startswith='text22')
