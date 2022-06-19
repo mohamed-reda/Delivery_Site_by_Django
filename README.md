@@ -11,6 +11,25 @@ It has:
 - work with widgets, customize formsets
 
 
+<img src="https://github.com/mohamed-reda/Delivery_Site_by_Django/blob/master/screansots/img.png?raw=true" width="800" height="400"  />  
+
+<img src="https://github.com/mohamed-reda/Delivery_Site_by_Django/blob/master/screansots/img_1.png?raw=true" width="800" height="400"  />  
+
+<img src="https://github.com/mohamed-reda/Delivery_Site_by_Django/blob/master/screansots/img_2.png?raw=true" width="800" height="400"  />  
+
+<img src="https://github.com/mohamed-reda/Delivery_Site_by_Django/blob/master/screansots/img_4.png?raw=true" width="800" height="400"  />  
+
+<img src="https://github.com/mohamed-reda/Delivery_Site_by_Django/blob/master/screansots/img_5.png?raw=true" width="800" height="400"  />  
+
+<img src="https://github.com/mohamed-reda/Delivery_Site_by_Django/blob/master/screansots/img_6.png?raw=true" width="800" height="400"  />  
+
+<img src="https://github.com/mohamed-reda/Delivery_Site_by_Django/blob/master/screansots/img_7.png?raw=true" width="800" height="400"  />  
+
+<img src="https://github.com/mohamed-reda/Delivery_Site_by_Django/blob/master/screansots/img_8.png?raw=true" width="800" height="400"  />  
+
+<img src="https://github.com/mohamed-reda/Delivery_Site_by_Django/blob/master/screansots/img_9.png?raw=true" width="800" height="400"  />  
+
+
 
 
 
