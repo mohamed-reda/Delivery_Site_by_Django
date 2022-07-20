@@ -1,4 +1,4 @@
-## Note app With Django Framwork
+## Note app With Django Framework
 
 safely collect and handle data while maintaining a user-friendly experience 
 
